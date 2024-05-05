@@ -1,0 +1,22 @@
+        body{
+            background-color: black;
+            color: white;
+        }
+        .button{
+            background-color: green;
+        }
+        .buttonapagar{
+            background-color: red;
+        }
+        h1{
+            color: white;
+        }
+        h2 {
+            color: aquamarine;
+        }
+        #Cozinha h2{
+            color: gold;
+        }
+        *{
+            color: white;
+        }
